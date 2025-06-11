@@ -79,18 +79,15 @@ Ama gelince öyle projeler gelecek ki,
 
 ---
 
-## 📈 GitHub Stats Show (Hava Atmalı Kısım)
+## 📈 GitHub Stats Show
 
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SondajMachine&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SondajMachine&layout=compact&theme=radical)
 
 ---
 
-## 🎵 Spotify Dinleme Durumu (Havalı Show Bitti Mi? Hayır.)
-
+## 🎵 Spotify Dinleme Durumu
 [![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/kendiSpotifyIDn)
-
-> ⚠️ Spotify entegrasyonu için [bu adımı aşağıda anlatıyorum](#🔧-ekstra-havalı-şovlar)
 
 ---
 
