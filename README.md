@@ -87,7 +87,7 @@ Ama gelince öyle projeler gelecek ki,
 ---
 
 ## 🎵 Spotify Dinleme Durumu
-[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/kendiSpotifyIDn)
+[![Spotify](https://novatorem-SondajMachine.Sondaj.app/api/spotify)](https://open.spotify.com/user/SondajMachine)
 
 ---
 
