@@ -41,3 +41,70 @@ code();
 overthink();
 debug();
 }
+
+
+---
+
+## 📦 Projelerim Nerede?
+
+Dostum… *yolculuk yeni başladı.*  
+Repo’lar yolda. Kodlar bavulda. İlk projede seni mention’lamazsam bana “npm uninstall yusuf” de.
+
+Ama gelince öyle projeler gelecek ki,  
+"404 Not Found" değil, "**401 Unauthorized to handle this much genius**" diyeceksin.
+
+---
+
+## 🎨 Tasarım Anlayışım
+
+- Dark mode candır.  
+- Light mode? FBI sorgusu gibi.  
+- Responsive değilse *respons vermem*.  
+- UI/UX önemli ama yeterince havalı değilse ikonlara emoji basarım 😎
+
+---
+
+## 🧠 Hayat Felsefem
+
+> `if (life == hard) { throw coffee; }`  
+> `try { succeed(); } catch (error) { blameFrontend(); }`
+
+---
+
+## 🎧 Çalışırken Ne Dinlerim?
+
+🎵 Lo-fi  
+🎵 Cyberpunk OST  
+🎵 Ve içten gelen “bu kod niye çalışmıyor lan” mırıldanmaları
+
+---
+
+## 📈 GitHub Stats Show (Hava Atmalı Kısım)
+
+![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+
+---
+
+## 🎵 Spotify Dinleme Durumu (Havalı Show Bitti Mi? Hayır.)
+
+[![Spotify](https://novatorem-username.vercel.app/api/spotify)](https://open.spotify.com/user/kendiSpotifyIDn)
+
+> ⚠️ Spotify entegrasyonu için [bu adımı aşağıda anlatıyorum](#🔧-ekstra-havalı-şovlar)
+
+---
+
+## 🦾 Son Söz
+
+Ben Yusuf.  
+Kod yazarım.  
+Espiri yaparım.  
+Ama en önemlisi: `commit` atmadan günüm geçmez.
+
+Sen de böyleysen... gel beraber `merge` olalım.
+
+---
+
+> “cool != perfect; cool == kendin olmak + emoji kullanmak”  
+> — Ben, biraz fazla boş zamanım olduğunda
+
