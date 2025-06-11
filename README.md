@@ -35,3 +35,9 @@ Bazen istemeden... Bazen de hiç çalışmıyor ama cool duruşumu bozmuyorum.
 
 ## ☕ Yazılımcı Yaşam Döngüm
 
+while (true) {
+coffee();
+code();
+overthink();
+debug();
+}
